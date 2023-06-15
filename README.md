@@ -24,7 +24,7 @@ To start, we selected furniture sales data from January 2017 to August 2017 and 
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/af1d5e10-e24f-42ab-a295-2142929ce789) ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/9a1af02a-c864-4f79-aef7-7a08b45c3341)
 
 
-We then tested if the data was stationary or non-stationary using the Augmented Dickey-Fuller (ADF) test. The ADF test result indicated that the furniture sales data was stationary, meaning that it lacked any time-dependent structure.
+We then tested if the data was stationary or non-stationary using the Augmented Dickey-Fuller (ADF) test. The ADF test result indicated that the furniture sales data was stationary, meaning that it lacked any time-dependent structure
 
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/4e7e3ced-03e5-45d9-b1fa-b71f4382017f)
 
