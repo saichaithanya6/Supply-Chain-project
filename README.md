@@ -28,6 +28,30 @@ We then tested if the data was stationary or non-stationary using the Augmented 
 
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/4e7e3ced-03e5-45d9-b1fa-b71f4382017f)
 
+Next, we decomposed the time series data into three distinct components - trend, seasonality, and noise - to better understand the sales patterns. The visualization of the decomposition components showed that the sales of furniture were unstable and required an ARIMA(p,d,q) model.
+
+![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/344b1092-5bc2-452c-ae07-7b2d4309d080)                ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/a72bce0e-03e4-41eb-a980-77f155d97b56)
+
+
+We then used the ARIMA model to forecast future furniture sales, taking into account the identified seasonality and trend.
+![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/f9ef6135-57cf-4f64-8bb3-a6305bedcb00)
+
+
+The Root Mean Square Error (RMSE) showed that the model could forecast average daily furniture sales in the test set with an error margin of 151.64 units from the actual sales. The range of daily furniture sales varied between 400 and over 1200 units, indicating that the model performed well.
+
+![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/3fc1d591-8148-468e-80b7-f20fea0688c8)
+
+Additionally, the shop could launch targeted marketing campaigns to promote sofas during the months where sales are typically low, such as in the middle of the year.
+As discussed, ARIMA model is the most popular techniques for sales forecasting. This model uses statistical analysis to identify trends and patterns in past sales data, which can then be used to predict future sales. The ARIMA model is particularly useful for businesses that have seasonal fluctuations in demand, as it can capture these patterns and adjust its forecasts accordingly.
+![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/d37ed984-6247-4a43-bc2a-978341cc898b)
+
+By using a forecasting technique such as the ARIMA model to predict furniture sales, we can improve our ability to meet customer demand, reduce costs associated with excess inventory or shortages, and increase overall profitability.
+
+
+
+
+
+
 
 
 
