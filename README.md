@@ -42,8 +42,11 @@ The Root Mean Square Error (RMSE) showed that the model could forecast average d
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/3fc1d591-8148-468e-80b7-f20fea0688c8)
 
 Additionally, the shop could launch targeted marketing campaigns to promote sofas during the months where sales are typically low, such as in the middle of the year.
-As discussed, ARIMA model is the most popular techniques for sales forecasting. This model uses statistical analysis to identify trends and patterns in past sales data, which can then be used to predict future sales. The ARIMA model is particularly useful for businesses that have seasonal fluctuations in demand, as it can capture these patterns and adjust its forecasts accordingly.
+As discussed, ARIMA model is the most popular techniques for sales forecasting. This model uses statistical analysis to identify trends and patterns in past sales data, which can then be used to predict future sales. The ARIMA model is particularly useful for businesses that have seasonal fluctuations in demand, as it can capture these 
+patterns and adjust its forecasts accordingly.
+
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/d37ed984-6247-4a43-bc2a-978341cc898b)
+
 
 By using a forecasting technique such as the ARIMA model to predict furniture sales, we can improve our ability to meet customer demand, reduce costs associated with excess inventory or shortages, and increase overall profitability.
 
