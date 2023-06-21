@@ -9,6 +9,7 @@ For visualizing the data of tables and chairs, the data of tables and chairs are
 #### Chairs Data Set
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/117956fe-553d-4769-aeaa-d40edc2b208e)
 
+
 After obtaining the datasets of the chairs and tables, we visualized the dataset of tables and chairs by using the plotly package.
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/9ea9b8d5-1dcb-4788-9040-ef487af571d6)
 
