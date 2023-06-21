@@ -11,10 +11,15 @@ For visualizing the data of tables and chairs, the data of tables and chairs are
 
 
 After obtaining the datasets of the chairs and tables, we visualized the dataset of tables and chairs by using the plotly package.
+
+#### Sales of Chairs by Month
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/9ea9b8d5-1dcb-4788-9040-ef487af571d6)
 
 Based on the data presented in the sales of chairs graph, it is evident that there is a recurring pattern of low sales for chairs during the month of August. This trend is
 observed consistently over the years and can be seen through the decline in the sales figures for chairs during the month of August, compared to any other months.
+
+![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/2643bfb2-bcf8-4771-9007-d5ac3a31630a)
+
 
 
 
