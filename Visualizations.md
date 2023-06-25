@@ -26,6 +26,18 @@ sales, it may be beneficial to introduce a combo offer with chairs. By bundling 
 increased sales for both products. On average, the sales of tables during October are around 413 units, which suggests that there is potential for significant sales growth 
 by implementing this strategy.
 
+Similarly, the sales figures for chairs during August are typically low, with an average of 321 units. To potentially boost sales for both chairs and tables during this 
+period, the company can implement the same combo offer during August.
+By leveraging these combo offers, the company can potentially increase sales for both tables and chairs during periods when they typically have low sales figures, 
+ultimately leading to increased revenue and profitability.
+
+###SUMMARY: 
+
+Based on the analysis that we performed, the following recommendations are suggested to Homebody Furniture to increase their profitability: lower the inventory level of
+sofas for the Washington DC area to 3850, reduce labor hours for producing beds, adopt process flexibility, use Postponement and Risk pooling strategy, expand the market
+base, and use forecasting techniques to predict high and low sales months and offer combo products in the months of lower sale. These recommendations can help the company
+optimize production processes, reduce lead times, lower demand variability, increase revenues, and establish a presence in key international markets. Adopting the optimal
+quantity values obtained from Gurobi can increase the credibility of the recommendation.
 
 
 
