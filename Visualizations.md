@@ -31,7 +31,7 @@ period, the company can implement the same combo offer during August.
 By leveraging these combo offers, the company can potentially increase sales for both tables and chairs during periods when they typically have low sales figures, 
 ultimately leading to increased revenue and profitability.
 
-###SUMMARY: 
+### SUMMARY: 
 
 Based on the analysis that we performed, the following recommendations are suggested to Homebody Furniture to increase their profitability: lower the inventory level of
 sofas for the Washington DC area to 3850, reduce labor hours for producing beds, adopt process flexibility, use Postponement and Risk pooling strategy, expand the market
