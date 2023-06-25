@@ -18,9 +18,13 @@ After obtaining the datasets of the chairs and tables, we visualized the dataset
 Based on the data presented in the sales of chairs graph, it is evident that there is a recurring pattern of low sales for chairs during the month of August. This trend is
 observed consistently over the years and can be seen through the decline in the sales figures for chairs during the month of August, compared to any other months.
 
+#### Sales of Tables by Month
 ![image](https://github.com/saichaithanya6/Supply-Chain-project/assets/111531760/2643bfb2-bcf8-4771-9007-d5ac3a31630a)
 
-
+Based on the sales data for tables, it has been observed that the month of October consistently has the lowest sales figures every year. To address this issue and increase 
+sales, it may be beneficial to introduce a combo offer with chairs. By bundling tables and chairs together, customers may be more inclined to make a purchase, resulting in 
+increased sales for both products. On average, the sales of tables during October are around 413 units, which suggests that there is potential for significant sales growth 
+by implementing this strategy.
 
 
 
